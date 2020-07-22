@@ -1,4 +1,4 @@
-module github.com/beaters/ThriftDemo
+module github.com/beaters/demo
 
 go 1.14
 
