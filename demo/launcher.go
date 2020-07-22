@@ -7,5 +7,5 @@ import "fmt"
 }*/
 
 func Hi(name *string) (string, uint32) {
-	return fmt.Sprintf("hello, %s", *name), nil
+	return fmt.Sprintf("hello, %s", *name), 0
 }
